@@ -7,7 +7,11 @@ Electrical and Computer Engineering.I enjoy solving problems by breaking them
 down into manageable pieces and building efficient, functional solutions.
 The main reason which always keeps my intrest in coding has always been a 
 single moment - "The moment when codes gives solution without error in 
+<<<<<<< HEAD
 seconds, on which I have worked for hours!". Aside from coding my interest
+=======
+seconds, on which i have worked for hours!". Aside from coding my interest
+>>>>>>> e2559a72e2b899714ea5dbca6859b9df20323e45
 lies in Astronomy, Ancient architecures, Chess and Yoga.  
 
 ## WHY SHOULD WE CHOOSE YOU?
