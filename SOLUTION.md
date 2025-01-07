@@ -29,4 +29,4 @@
 - git checkout <branch_name> <path_to_file>: Copy a file from another branch to the current branch.
 - git status: Display the status of your working directory and staged changes.
 
-\![Congrats](/home/m-s-surya-gayathri/amfoss-tasks/codes/TheCommandLineCup.png)
+\![Congrats](/codes/TheCommandLineCup.png)
