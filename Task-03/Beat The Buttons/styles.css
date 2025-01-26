@@ -1,0 +1,163 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  text-shadow: 3px 0 #DA0463;
+  font-family: "Playwrite IN", serif;
+  font-optical-sizing: auto;
+  font-weight: 400 ;
+  font-style: normal;
+  }
+
+.w {
+  font-family: "Playwrite VN", serif;
+  font-optical-sizing: auto;
+  font-weight: 400 ;
+  font-style: normal;
+
+}
+
+.a {
+  font-family: "Playwrite VN", serif;
+  font-optical-sizing: auto;
+  font-weight: 400 ;
+  font-style: normal;
+
+}
+
+.s {
+  font-family: "Playwrite VN", serif;
+  font-optical-sizing: auto;
+  font-weight: 400 ;
+  font-style: normal;
+
+}
+
+.d {
+  font-family: "Playwrite VN", serif;
+  font-optical-sizing: auto;
+  font-weight: 400 ;
+  font-style: normal;
+
+}
+
+.j {
+  font-family: "Playwrite VN", serif;
+  font-optical-sizing: auto;
+  font-weight: 400 ;
+  font-style: normal;
+
+}
+
+.k {
+  font-family: "Playwrite VN", serif;
+  font-optical-sizing: auto;
+  font-weight: 400 ;
+  font-style: normal;
+
+}
+
+.l {
+  font-family: "Playwrite VN", serif;
+  font-optical-sizing: auto;
+  font-weight: 400 ;
+  font-style: normal;
+
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+.drum {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-size: 18px;
+  padding: 20px 30px;
+  margin: 15px;
+  border-radius: 8px;
+  transition: all 0.3s;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: white;
+}
+
+.w {
+  background-color: rgb(104, 104, 181);
+  box-shadow: 0px 4px 10px rgba(0, 0, 255, 0.6);
+}
+
+.a {
+  background-color: #FF0000;
+  box-shadow: 0px 4px 10px rgba(255, 0, 0, 0.6);
+}
+
+.s {
+  background-color: #c69b75;
+  box-shadow: 0px 4px 10px rgba(255, 218, 185, 0.6);
+}
+
+.d {
+  background-color: #b21515;
+  box-shadow: 0px 4px 10px rgba(255, 0, 0, 0.6);
+}
+
+.j {
+  background-color: rgb(104, 104, 181);
+  box-shadow: 0px 4px 10px rgba(122, 122, 180, 0.586);
+}
+
+.k {
+  background-color: #c69b75;
+  box-shadow: 0px 4px 10px rgba(255, 218, 185, 0.6);
+}
+
+.l {
+  background-color: #b21515;
+  box-shadow: 0px 4px 10px rgba(43, 126, 186, 0.6);
+}
+
+.drum {
+  box-shadow: 2px 2px 5px gray;
+}
+
+.drum:active {
+  transform: scale(0.95);
+  box-shadow: 1px 1px 3px gray;
+}

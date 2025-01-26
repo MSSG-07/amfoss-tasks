@@ -29,7 +29,7 @@ other. I will always try to keep up with members helping myself and other.
 I would actively participate in workshops,events and hackathons conducted by 
 the club. Helping the club to organize various events will also be on top
 of the contribution list.I will utilise every single opportunity to exibit 
-my skills to represent the Club with atmost dedication and sincerity 
+my skills to represent the Club with at most dedication and sincerity 
 
 ## WHAT ARE YOUR FIELDS OF INTEREST AND HOW DO YOU PLAN ON WORKING ON THEM?
  
