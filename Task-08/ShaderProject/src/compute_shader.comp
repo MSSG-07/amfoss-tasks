@@ -1,0 +1,14 @@
+#version 450
+
+layout(set = 0, binding = 0) buffer InputBuffer {
+    float inputData[];
+};
+
+layout(set = 0, binding = 1) buffer OutputBuffer {
+    float outputData[];
+};
+
+void main() {
+    uint id = gl_GlobalInvocationID.x;
+    outputData[id] = inputData[id] + 10.0f; // Adding 10 to each element
+}

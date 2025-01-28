@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ShaderProject.dir/src/main.cpp.o -o ShaderProject   -L/path/to/vulkan-sdk  -Wl,-rpath,/path/to/vulkan-sdk -lvulkan 
